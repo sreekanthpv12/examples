@@ -4,3 +4,4 @@ def sub1(a,b):
 
 print(sub1(5,3))
 print(sub1(3,1))
+print(sub1(6,2))
