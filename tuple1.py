@@ -1,2 +1,6 @@
 tup=(1,2,3,4,5)
 print(tup)
+tup1=(1,2,3,4,5)
+print(tup1)
+tup2=(2,"sree",4,5)
+print(tup2)
